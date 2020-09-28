@@ -1,0 +1,10 @@
+RDPY provides the following RDP and VNC binaries :
+
+    RDP Man In The Middle proxy which record session
+    RDP Honeypot
+    RDP screenshoter
+    RDP client
+    VNC client
+    VNC screenshoter
+    RSS Player
+ 
