@@ -6,6 +6,6 @@ RDPY provides the following RDP and VNC binaries :
     RDP client
     VNC client
     VNC screenshoter
-    RSS Player
+    
 
 This is a new addition to test git merge functionality
