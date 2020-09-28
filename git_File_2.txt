@@ -6,6 +6,6 @@ RDPY provides the following RDP and VNC binaries :
     RDP client
     VNC client
     VNC screenshoter
-    
+    Sample Edit for Remote Branch
 
 This is a new addition to test git merge functionality
